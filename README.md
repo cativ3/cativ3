@@ -2,7 +2,7 @@
  
 # Hi there!
 
-I am Yusuf! I specialize in backend technologies and work mainly on adtech.
+I'm Yusuf! I specialize in backend technologies and work mainly on adtech.
 
 Contact me via these platforms! 
 
