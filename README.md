@@ -2,7 +2,7 @@
  
 # Hi there!
 
-I'm Yusuf! I'm interested in backend and frontend technologies.
+I'm Yusuf! I'm an expert on backend technologies.
 
 Contact me via these platforms! 
 
