@@ -6,9 +6,9 @@ I'm Yusuf! I'm interested in backend and frontend technologies.
 
 Contact me via these platforms! 
 
-  <a href="https://www.instagram.com/_ysfzl/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img> </a>
+  <a href="https://www.instagram.com/cativ3.dev/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img> </a>
   <a href="https://www.linkedin.com/in/yusufozel/" target="_blank" rel="nofollow"><img alt="Yusuf's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yusufozel.business@gmail.com" target="_blank" rel="nofollow"><img alt="Yusuf's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:yusufozel@cativesoft.com" target="_blank" rel="nofollow"><img alt="Yusuf's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 <div align="center" height=100>
